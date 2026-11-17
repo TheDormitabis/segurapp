@@ -1,0 +1,18 @@
+{
+  "name": "SegurApp - Seguridad ciudadana",
+  "short_name": "SegurApp",
+  "description": "Prevención ciudadana, orientación y redes personales de apoyo en Trujillo.",
+  "lang": "es-PE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#29263a",
+  "icons": [
+    {
+      "src": "/shield.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
